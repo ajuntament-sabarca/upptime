@@ -3,12 +3,16 @@ owner: ajuntament-sabarca # Your GitHub organization or username, where this rep
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Sabarca
+  - name: sabarca.cat
     url: https://sabarca.cat
-  - name: Test Broken Site
-    url: https://savarca.cat
+  - name: esports.sabarca.cat
+    url: https://esports.sabarca.cat
+  - name: emmdsab.sabarca.cat
+    url: https://emmdsab.sabarca.cat
+  - name: saburba.sabarca.cat
+    url: https://saburba.sabarca.cat
+  - name: radiosantandreu.com
+    url: https://radiosantandreu.com
 
 assignees:
   - ajuntament-sabarca
