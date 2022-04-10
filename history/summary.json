@@ -4,10 +4,10 @@
     "url": "https://sabarca.cat",
     "icon": "https://favicons.githubusercontent.com/sabarca.cat",
     "slug": "sabarca-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 814,
@@ -15,17 +15,19 @@
     "timeWeek": 964,
     "timeMonth": 817,
     "timeYear": 814,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 2
+    }
   },
   {
     "name": "esports.sabarca.cat",
     "url": "https://esports.sabarca.cat",
     "icon": "https://favicons.githubusercontent.com/esports.sabarca.cat",
     "slug": "esports-sabarca-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 881,
@@ -33,17 +35,19 @@
     "timeWeek": 935,
     "timeMonth": 881,
     "timeYear": 881,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 2
+    }
   },
   {
     "name": "emmdsab.sabarca.cat",
     "url": "https://emmdsab.sabarca.cat",
     "icon": "https://favicons.githubusercontent.com/emmdsab.sabarca.cat",
     "slug": "emmdsab-sabarca-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 948,
@@ -51,17 +55,19 @@
     "timeWeek": 935,
     "timeMonth": 876,
     "timeYear": 948,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "saburba.sabarca.cat",
     "url": "https://saburba.sabarca.cat",
     "icon": "https://favicons.githubusercontent.com/saburba.sabarca.cat",
     "slug": "saburba-sabarca-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 916,
@@ -69,14 +75,16 @@
     "timeWeek": 861,
     "timeMonth": 884,
     "timeYear": 916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "radiosantandreu.com",
     "url": "https://radiosantandreu.com",
     "icon": "https://favicons.githubusercontent.com/radiosantandreu.com",
     "slug": "radiosantandreu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 2159,
     "timeMonth": 2051,
     "timeYear": 2102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 0
+    }
   }
 ]
