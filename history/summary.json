@@ -40,10 +40,10 @@
     "url": "https://emmdsab.sabarca.cat",
     "icon": "https://favicons.githubusercontent.com/emmdsab.sabarca.cat",
     "slug": "emmdsab-sabarca-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 944,
@@ -51,7 +51,9 @@
     "timeWeek": 899,
     "timeMonth": 859,
     "timeYear": 944,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-15": 1
+    }
   },
   {
     "name": "saburba.sabarca.cat",
